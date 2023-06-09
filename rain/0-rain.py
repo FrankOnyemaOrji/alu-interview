@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Create an algorithm for claculating the 
+"""Create an algorithm for claculating the
 amount of rain trapped in a 2D array"""
 
 
